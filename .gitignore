@@ -1,0 +1,14 @@
+*.csv
+*.pickle
+*.pyc
+*.json
+*.txt
+__pycache__/MyScripts.cpython-38.pyc
+.Git
+.vscode/settings.json
+*.pm
+*.e2x
+*.vim
+*.dict
+*.pl
+*.xlsx
